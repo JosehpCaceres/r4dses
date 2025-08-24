@@ -185,7 +185,8 @@ flights |>
 1.  En una canalización única para cada condición, busque todos los vuelos que cumplan la condición:
 
     -   Tuvo un retraso de llegada de dos o más horas.
-    -   Voló a Houston (`IAH` o `HOU`) C. Fueron operados por United, American o Delta
+    -   Voló a Houston (`IAH` o `HOU`).
+    -   Fueron operados por United, American o Delta
     -   Salida en verano (julio, agosto y septiembre)
     -   Llegó más de dos horas tarde, pero no se fue tarde
     -   Se retrasaron al menos una hora, pero recuperaron más de 30 minutos en vuelo
