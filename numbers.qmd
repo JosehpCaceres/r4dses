@@ -216,7 +216,7 @@ df |>
 ### Aritmética modular
 
 La aritmética modular es el nombre técnico del tipo de matemática que hacías antes de aprender sobre los lugares decimales, es decir, la división que produce un número entero y un resto.
-En R, `%/%` realiza la división de enteros y `%%` calcula el resto:
+En R, `%/%` realiza la división de enteros y `%%` calcula el residuo:
 
 ```{r}
 1:10 %/% 3
