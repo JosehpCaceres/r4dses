@@ -32,7 +32,7 @@ library(nycflights13)
 ## Haciendo úmeros
 
 En la mayoría de los casos, obtendrá números ya registrados en uno de los tipos numéricos de R: entero o doble.
-En algunos casos, sin embargo, los encontrará como cadenas, posiblemente porque los creó al girar desde los encabezados de columna o porque algo salió mal en su proceso de importación de datos.
+En algunos casos, sin embargo, los encontrará como cadenas, posiblemente porque los creó al pivotando desde los encabezados de columna o porque algo salió mal en su proceso de importación de datos.
 
 readr proporciona dos funciones útiles para analizar cadenas en números: `parse_double()` y `parse_number()`.
 Usa `parse_double()` cuando tengas números escritos como cadenas:
